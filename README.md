@@ -4,4 +4,8 @@ En este laboratorio implementamos los conocimientos adquiridos en la asignatura 
 
 # Sentencias condicionales
 
-Para cumplir este primer reto nos pedia modificar el codigo https://github.com/parrado/lab0-1-2025/blob/main/hrzones.py
+Para cumplir este primer reto nos pedia modificar el codigo https://github.com/parrado/lab0-1-2025/blob/main/hrzones.py y cumplir estos requisitos
+
+![image](https://github.com/user-attachments/assets/3140189a-df31-4a8e-a6fb-3285653519fe)
+
+Ya con el codigo modificado 
