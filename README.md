@@ -8,4 +8,5 @@ Para cumplir este primer reto nos pedia modificar el codigo https://github.com/p
 
 ![image](https://github.com/user-attachments/assets/3140189a-df31-4a8e-a6fb-3285653519fe)
 
-Ya con el codigo modificado 
+Codigo modificado y con sus respectivos requisitos: https://vscode.dev/github/braVM11504/Laboratorio-00/blob/mainsAppDesktop_cv1g1gvanyjgm/TempState/353B78669DD07C3D95EA4ACBE7130488/1hrzones.py
+
